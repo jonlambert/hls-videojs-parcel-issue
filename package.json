@@ -1,0 +1,23 @@
+{
+  "name": "hls-videojs-parcel-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonlambert/hls-videojs-parcel-issue.git"
+  },
+  "author": "Jon Lambert <jon@evada.co>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonlambert/hls-videojs-parcel-issue/issues"
+  },
+  "homepage": "https://github.com/jonlambert/hls-videojs-parcel-issue#readme",
+  "dependencies": {
+    "parcel": "^0.0.1",
+    "videojs-contrib-hls": "^5.14.1"
+  }
+}
